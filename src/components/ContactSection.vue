@@ -109,7 +109,7 @@ export default {
     name: "",
     nameRules: [
       (v) => !!v || "The name field is required",
-      (v) => (v && v.length >= 6) || "The name must be longer than 6 characters",
+      (v) => (v && v.length >= 2) || "The name must be longer than 2 characters",
     ],
     email: "",
     emailRules: [

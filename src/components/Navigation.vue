@@ -97,9 +97,9 @@ export default {
     items: [
       ["mdi-home-outline", "Home", "#hero"],
       ["mdi-information-outline", "About us", "#features"],
-      ["mdi-download-box-outline", "Download", "#download"],
-      ["mdi-currency-usd", "Preços", "#pricing"],
-      ["mdi-email-outline", "Contatos", "#contact"],
+      ["mdi-download-box-outline", "Services", "#download"],
+      ["mdi-currency-usd", "Engagement Models", "#pricing"],
+      ["mdi-email-outline", "Contacts", "#contact"],
     ],
   }),
   props: {
